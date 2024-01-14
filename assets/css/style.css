@@ -16,7 +16,6 @@ body .main {
 .myContainer {
   max-width: 450px;
   width: 100%;
-  border: 1px solid black;
 }
 
 .page-one,
