@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+
+.curve-text {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+.warp__placeholder {
+  position: absolute;
+  color: transparent;
+  font-size: 0.1px;
+}
+
+.warp {
+  font-family: "DM Serif Display", serif;
+  color: #5a6956;
+  font-weight: bold;
+  font-size: x-large;
+  
+  /* font: normal 50px/1 ultra; */
+}
+
+[class*="warp__"] {
+  display: block;
+  position: absolute;
+}
+
+.warp__0 {
+  transform-origin: 50% 43px;
+  transform: translate(60.7636px, 105.7953px) rotate(-0.928963rad);
+}
+
+.warp__1 {
+  transform-origin: 50% 43px;
+  transform: translate(87.3939px, 74.8289px) rotate(-0.753905rad);
+}
+
+.warp__2 {
+  transform-origin: 50% 43px;
+  transform: translate(121.0488px, 50.865399999999994px) rotate(-0.590129rad);
+}
+
+.warp__3 {
+  transform-origin: 50% 43px;
+  transform: translate(152.3674px, 33.510099999999994px) rotate(-0.452022rad);
+}
+
+.warp__4 {
+  transform-origin: 50% 43px;
+  transform: translate(182.4445px, 16.7665px) rotate(-0.294652rad);
+}
+
+.warp__5 {
+  transform-origin: 50% 43px;
+  transform: translate(240.2858px, 6.1358999999999995px) rotate(-0.166172rad);
+}
+
+.warp__6 {
+  transform-origin: 50% 43px;
+  transform: translate(275.905px, 1.4352000000000018px) rotate(-0.08199rad);
+}
+
+.warp__7 {
+  transform-origin: 50% 43px;
+  transform: translate(318.1474px, -0.340600000000002px) rotate(0.007714rad);
+}
+
+.warp__8 {
+  transform-origin: 50% 43px;
+  transform: translate(358.6657px, 2.1296000000000035px) rotate(0.148304rad);
+}
+
+.warp__9 {
+  transform-origin: 50% 43px;
+  transform: translate(381.0596px, 9.394399999999997px) rotate(0.300452rad);
+}
+
+.warp__10 {
+  transform-origin: 50% 43px;
+  transform: translate(420.3652px, 25.212400000000002px) rotate(0.490721rad);
+}
+
+.warp__11 {
+  transform-origin: 50% 43px;
+  transform: translate(453.849px, 44.749300000000005px) rotate(0.646514rad);
+}
+
+.warp__12 {
+  transform-origin: 50% 43px;
+  transform: translate(478.4128px, 67.8202px) rotate(0.78077rad);
+}
+
+.warp__13 {
+  transform-origin: 50% 43px;
+  transform: translate(505.07000000000005px, 91.77699999999999px)
+    rotate(0.888362rad);
+}
